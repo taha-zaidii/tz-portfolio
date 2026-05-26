@@ -1,5 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import { Space_Grotesk, Space_Mono } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import "./globals.css";
 
 const sans = Space_Grotesk({
@@ -57,6 +59,8 @@ export default function RootLayout({
         <div className="noise" />
         <div className="scan-sweep" />
         {children}
+        <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );
