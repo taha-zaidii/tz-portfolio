@@ -1,0 +1,5 @@
+{
+  "_about": "Drop images in this folder (jpg / jpeg / png / webp / gif). They appear automatically in the Off-screen → Gallery section.",
+  "_captions": "To add a caption under an image, add a key matching its filename, e.g. \"01.jpg\": \"Karachi rooftop, fajr\".",
+  "_example": "Remove these underscore keys when you start using real ones."
+}
