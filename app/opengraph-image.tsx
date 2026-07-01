@@ -70,7 +70,7 @@ export default function OG() {
               lineHeight: 1.35,
             }}
           >
-            AI Engineer · Co-founder, Vector. Shipping multi-agent systems,
+            AI Engineer · Co-founder, Dextron. Shipping multi-agent systems,
             RAG pipelines, and full-stack MVPs out of Karachi.
           </div>
         </div>

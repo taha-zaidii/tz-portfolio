@@ -25,11 +25,11 @@ export const metadata: Metadata = {
     template: "%s · Taha Zaidi",
   },
   description:
-    "I'm Taha. I co-found Vector — a small AI studio in Karachi. I build agents, RAG systems, and the products around them.",
+    "I'm Taha. I co-found Dextron — a small AI studio in Karachi. I build agents, RAG systems, and the products around them.",
   openGraph: {
     title: "Taha Zaidi",
     description:
-      "AI engineer in Karachi. Co-founder of Vector. Builds agents, RAG systems, and the products around them.",
+      "AI engineer in Karachi. Co-founder of Dextron. Builds agents, RAG systems, and the products around them.",
     url: "https://tahazaidi.me",
     siteName: "Taha Zaidi",
     type: "website",

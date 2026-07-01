@@ -80,7 +80,7 @@ export function Hero() {
           transition={{ duration: 0.6, delay: 0.3 }}
           className="mt-8 t-mono text-[11.5px] text-ink-mute uppercase"
         >
-          AI engineer · co-founder, Vector ·{" "}
+          AI engineer · co-founder, Dextron ·{" "}
           <span className="inline-flex items-center gap-1">
             <MapPin className="w-3 h-3" />
             Karachi, PK

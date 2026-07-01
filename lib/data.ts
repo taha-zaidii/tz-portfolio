@@ -7,12 +7,12 @@ export const profile = {
   available: "Open to freelance & full-time roles",
   // The hero copy — written in Taha's voice, not in landing-page voice.
   intro:
-    "I'm 21, from Karachi, studying CS at FAST NUCES. I co-founded Vector with one of my closest friends — a small AI studio. We build agents, RAG systems, and the MVPs around them for startups that need to move fast.",
+    "I'm 21, from Karachi, studying CS at FAST NUCES. I co-founded Dextron with one of my closest friends — a small AI studio. We build agents, RAG systems, and MVPs for startups across the US, Australia, the Philippines, and the MENA region.",
   introExtra:
     "Outside of that, I do a lot. I freelance design and motion, I run marketing for student festivals, I argue about politics at dinner. The rest is below.",
   // "Currently" line — edit this anytime to keep it real.
   currently: [
-    "Shipping Vector engagements",
+    "Shipping Dextron engagements",
     "Senior year, FAST NUCES",
     "Rereading anything I can find on the Cold War",
   ],
@@ -39,12 +39,12 @@ export type Experience = {
 
 export const experiences: Experience[] = [
   {
-    company: "Vector — AI Automation Studio",
+    company: "Dextron — AI Automation Studio",
     role: "Co-Founder & AI Engineer",
     location: "Remote / Karachi",
     period: "May 2026 — Present",
     bullets: [
-      "Co-founded a two-person AI studio shipping full-stack MVPs and AI infrastructure for early-stage startups on <2-week fixed-scope sprints.",
+      "Co-founded a two-person AI studio shipping full-stack MVPs and AI infrastructure for early-stage startups in the US, Australia, the Philippines, and the MENA region on <2-week fixed-scope sprints.",
       "Shipping client products: an autonomous support-triage agent, a domain-specific RAG platform, and B2B SaaS MVPs.",
       "Own the full lifecycle — discovery, scoping, delivery, and hand-off; bridge engineering with commercial GTM.",
     ],

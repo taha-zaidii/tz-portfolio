@@ -1,5 +1,5 @@
 const items = [
-  "Vector.studio ▸ shipping",
+  "Dextron ▸ shipping",
   "Baymax.app ▸ deployed",
   "Ustaad ▸ beta",
   "Vyse ▸ training",

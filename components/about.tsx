@@ -15,11 +15,11 @@ export function About() {
             </p>
             <p className="text-ink-dim">
               I started{" "}
-              <span className="text-ink phosphor">Vector</span> in 2026 with
+              <span className="text-ink phosphor">Dextron</span> in 2026 with
               one of my closest friends. It's a small AI studio. We take
               projects in two-week sprints, build them properly, and hand them
-              off. Mostly agents, RAG systems, and full-stack MVPs for early-
-              stage teams.
+              off. We build agents, RAG systems, and full-stack MVPs for early-
+              stage teams across the US, Australia, the Philippines, and the MENA region.
             </p>
             <p className="text-ink-dim">
               I've also spent the last few years on the other side of the
